@@ -9,26 +9,36 @@
 #  weight = 10
 
 [[main]]
-  name = "News"
+  name = "Новости"
   url = "post"
   weight = 20
 
 [[main]]
-  name = "People"
+  name = "О нас"
   url = "people"
   weight = 30
 
 [[main]]
-  name = "Events"
+  name = "События"
   url = "event"
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "Публикации"
   url = "publication"
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Контакты"
   url = "contact"
   weight = 60
+
+[[main]]
+  name = "Материалы"
+  url = "matherials"
+  weight = 70
+
+[[main]]
+  name = "Курсы"
+  url = "courses"
+  weight = 80

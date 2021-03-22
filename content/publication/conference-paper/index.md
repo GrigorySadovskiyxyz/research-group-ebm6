@@ -1,13 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Approach to valuation of aerospace technologies commercialization capability"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- drogovoz
+- kashevarova
+- Капран Николай Перович
+date: "2021-02-01T00:00:00Z"
+doi: "10.1063/5.0035767"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,29 +17,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: AIP Conference Proceedings
+publication_short: AIP
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The relevance of the study is due to the need to assess the economic efficiency of technologies created during the development of complex space systems, as well as the potential for their commercialization in the form of exclusive rights to intellectual property. For this, it is necessary, at an early stage of the project, to assess the trends in the scientific and technical development of the industry and analyze their conformity with the terms of reference for the project. In this paper, we propose a methodology for determining the complex predictive criterion for the potential for commercialization of created technologies. This criterion includes scientific, technical, time and cost indicators, which are determined on the basis of the analysis of patent information. A feature of the proposed technique is that with the help of fuzzy logic, it takes into account the unique nature of complex space systems and the lack of close technological analogues on the market.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: XLIV ACADEMIC SPACE CONFERENCE, dedicated to the memory of academician S.P. Korolev and other outstanding Russian scientists – pioneers of space exploration «KOROLEV ACADEMIC SPACE CONFERENCE»
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Research Gate
+  url: https://www.researchgate.net/publication/349525906_Approach_to_valuation_of_aerospace_technologies_commercialization_capability
+url_pdf: https://aip.scitation.org/doi/pdf/10.1063/5.0035767
+url_project: 'https://ui.adsabs.harvard.edu/abs/2021AIPC.2318g0003A/abstract'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,7 +59,7 @@ slides:
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Нажмите кнопку *Процитировать* выше, чтобы импортировать метаданные публикации в свое программное обеспечение для управления ссылками.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Здесь можно добавить дополнительные примечания, в том числе [код и математику](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

@@ -1,0 +1,23 @@
+# ИБМ-6 цвета: #0064FF, #606060, #9D9D9C
+
+name = "my_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#0064FF"
+
+# Menu
+menu_primary = "#0064FF"
+menu_text = "#191919"
+menu_text_active = "#606060"
+menu_title = "#9D9D9C"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  link = "#bbdefb"
+  link_hover = "#bbdefb"

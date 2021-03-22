@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Садовский Григорий Леонидович
+title: Вашлаев Андрей Дмитриевич
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: аспирант
+role: ассистент кафедры, руководитель работ по мониторингу успеваемости студентов
 
 # Organizations/Affiliations
 organizations:
@@ -17,18 +17,16 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Анализ данных
-- Разработка SaaS продуктов в флит-менеджменте
-- LaTeX
+- Цифровая экономика
+- Организация и управление производством
+- Кадровый потенциал
+- Теория инноваций
 
 education:
   courses:
-  - course: Аспирантура 05.02.22 Организация производства (машиностроение)
+  - course: Аспирантура 08.00.05 Экономика и управление народным хозяйством
     institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
-    year: 2023
-  - course: Двойной диплом по программе магистратуры Global Management of Innovation and Technology (GMIT)
-    institution: Lappeenranta-Lahti University of Technology (LUT)
-    year: 2019
+    year: 2022
   - course: Магистратура 27.04.06 Организация и управление наукоемкими производствами
     institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
     year: 2019
@@ -44,22 +42,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sadovskiy.grigory@yandex.ru'
+  link: 'mailto:test@a.d.vashlaev@gmail.com'
+- icon: vk
+  icon_pack: fab
+  link: https://vk.com/a.d.vashlaev
 - icon: researchgate
   icon_pack: ai
-  link: 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/GrigorySadovskiyxyz
-
+  link: https://www.researchgate.net/profile/Andrey-Vashlaev
+- icon: book
+  icon_pack: fas
+  link: https://www.elibrary.ru/author_items.asp?authorid=966002
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV-Sadovskiy.pdf
+  link: files/CV-Vashlaev.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sadovskiy.grigory@yandex.ru"
+email: "a.d.vashlaev@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,6 +71,4 @@ user_groups:
 - Researchers
 ---
 
-Основные научно-исследовательские интересы лежат в области развития цифровой экономики, организации и управление производством, кадрового потенциала. Принимает активное участие в разработке учебно-методических материалов для учебного процесса.
-
-[A post]({{< relref "/post/20-12-01-wowchemy-prize" >}})
+Вашлаев А.Д. занимает позицию асистента кафедры. Его основные научно-исследовательские интересы лежат в области развития цифровой экономики, организации и управление производством, кадрового потенциала. Принимает активное участие в разработке учебно-методических материалов для учебного процесса.
