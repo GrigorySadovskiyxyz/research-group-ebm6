@@ -6,7 +6,7 @@ title: Дроговоз Павел Анатольевич
 superuser: true
 
 # Role/position
-role: заведующий кафедрой, профессор, доктор экономических наук
+role: Заведующий кафедрой, профессор, доктор экономических наук
 
 # Organizations/Affiliations
 organizations:
@@ -20,21 +20,6 @@ interests:
 - Прикладная макроэкономика
 - Межкультурные исследования
 
-education:
-  courses:
-  - course: 05.02.22 Организация производства (машиностроение)
-    institution: МГТУ им. Н.Э. Баумана (ИБМ-6)
-    year: 2023
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2020
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,15 +29,24 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:test@drogovoz@bmstu.ru'
-- icon: vk
-  icon_pack: fab
-  link: https://vk.com/p.drogovoz
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2560-7944
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Pavel-Drogovoz
 - icon: book
   icon_pack: fas
   link: https://www.elibrary.ru/author_items.asp?authorid=314698
+- icon: google-scholar
+  icon_pack: ai
+  link: 'https://scholar.google.com/citations?user=oxixyd0AAAAJ&hl=ru'
+- icon: publons
+  icon_pack: ai
+  link: 'https://publons.com/researcher/2408078/pavel-drogovoz/'
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://ru.linkedin.com/in/pavel-drogovoz-b1774017'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,9 +64,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- 
 ---
 
-Научные интересы относятся к области прикладной макроэкономике и межкультурные исследования.
+Автор свыше 70 научных работ, в том числе 8 монографий в области теории и методологии управления стоимостью бизнеса, организационно-экономического анализа и проектирования бизнеса, военно-гражданской интеграции, бизнес-информатики.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Научные интересы относятся к области прикладной макроэкономике и межкультурных исследований.

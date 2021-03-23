@@ -42,3 +42,8 @@
   name = "Курсы"
   url = "courses"
   weight = 80
+
+[[main]]
+  name = "Проекты"
+  url = "courses"
+  weight = 90

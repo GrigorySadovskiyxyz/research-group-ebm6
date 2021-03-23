@@ -6,15 +6,17 @@ title: Садовский Григорий Леонидович
 superuser: true
 
 # Role/position
-role: аспирант
+role: Аспирант
 
 # Organizations/Affiliations
 organizations:
 - name: МГТУ им. Н.Э. Баумана
   url: "https://bmstu.ru/"
+- name: LUT University Alumni
+  url: "https://www.lut.fi/web/en/for-alumni"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Разработчик ОНХИ ИБМ-6.
 
 interests:
 - Анализ данных
@@ -25,7 +27,7 @@ education:
   courses:
   - course: Аспирантура 05.02.22 Организация производства (машиностроение)
     institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
-    year: 2023
+    year: 2019-н.в.
   - course: Двойной диплом по программе магистратуры Global Management of Innovation and Technology (GMIT)
     institution: Lappeenranta-Lahti University of Technology (LUT)
     year: 2019
@@ -51,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/GrigorySadovskiyxyz
+- icon: book
+  icon_pack: fas
+  link: https://www.elibrary.ru/author_items.asp?authorid=920701
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,6 +75,6 @@ user_groups:
 - Researchers
 ---
 
-Основные научно-исследовательские интересы лежат в области развития цифровой экономики, организации и управление производством, кадрового потенциала. Принимает активное участие в разработке учебно-методических материалов для учебного процесса.
+Основные научно-исследовательские интересы лежат в области развития cтратегическего менеджмента, оптимизация бизнес-процессов, продуктовой аналитике, методов разработки IT-решений. Принимает активное участие в разработке учебно-методических материалов и оптимизации рабочего и учебного процесса.
 
 [A post]({{< relref "/post/20-12-01-wowchemy-prize" >}})

@@ -7,11 +7,11 @@
 - id: back_to_top
   translation: На верх
 - id: home
-  translation: Home
+  translation: Главная страница
 - id: close
-  translation: Close
+  translation: Закрыть
 - id: languages
-  translation: Languages
+  translation: Языки
 - id: related
   translation: Похожие
 - id: minute_read
@@ -23,15 +23,15 @@
 - id: figure
   translation: 'Схема № %d:'
 - id: edit_page
-  translation: Edit this page
+  translation: Править эту страницу
 - id: theme_selector
-  translation: Display preferences
+  translation: Отобразить настройки
 - id: theme_light
-  translation: Light
+  translation: Светлая
 - id: theme_dark
-  translation: Dark
+  translation: Темная
 - id: theme_auto
-  translation: Automatic
+  translation: Автоматический
 - id: btn_preprint
   translation: Предварительная печать
 - id: btn_pdf
@@ -129,7 +129,7 @@
 - id: slides
   translation: Слайды
 - id: authors
-  translation: Authors
+  translation: Персоналии
 - id: search
   translation: Поиск
 - id: search_placeholder
@@ -139,7 +139,7 @@
 - id: search_no_results
   translation: результат не найден
 - id: search_common_queries
-  translation: Common searches
+  translation: Частые запросы
 - id: page_not_found
   translation: Страница не найдена
 - id: 404_recommendations
