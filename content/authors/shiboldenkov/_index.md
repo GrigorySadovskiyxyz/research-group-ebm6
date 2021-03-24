@@ -6,7 +6,7 @@ title: Шиболденков Владимир Александрович
 superuser: false
 
 # Role/position
-role: ассистент, кандидат экономических наук
+role: Ассистент, кандидат экономических наук
 
 # Organizations/Affiliations
 organizations:

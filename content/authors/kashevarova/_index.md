@@ -6,7 +6,7 @@ title: Кашеварова Наталья Александровна
 superuser: false
 
 # Role/position
-role: ассистент кафедры, кандидат экономических наук
+role: Ассистент, кандидат экономических наук
 
 # Organizations/Affiliations
 organizations:

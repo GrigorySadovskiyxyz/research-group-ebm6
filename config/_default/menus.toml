@@ -35,15 +35,10 @@
 
 [[main]]
   name = "Материалы"
-  url = "matherials"
+  url = "matherials/"
   weight = 70
 
 [[main]]
   name = "Курсы"
-  url = "courses"
+  url = "courses/"
   weight = 80
-
-[[main]]
-  name = "Проекты"
-  url = "courses"
-  weight = 90

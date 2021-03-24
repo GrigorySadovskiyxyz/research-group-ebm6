@@ -6,7 +6,7 @@ title: Вашлаев Андрей Дмитриевич
 superuser: false
 
 # Role/position
-role: ассистент кафедры, руководитель работ по мониторингу успеваемости студентов
+role: Ассистент, руководитель работ по мониторингу успеваемости студентов
 
 # Organizations/Affiliations
 organizations:
