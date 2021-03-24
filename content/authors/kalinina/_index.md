@@ -18,24 +18,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Инженерия знаний и интеллектуальный анализ данных
-- Онтологическая экономика
-- Инноватика
+- Инструменты цифровой экономики
 - Системно-синергетический анализ
 
 education:
   courses:
-  - course: 05.02.22 Организация производства (машиностроение)
+  - course: к.э.н. 08.00.13 Математические и инструментальные методы экономики
     institution: МГТУ им. Н.Э. Баумана (ИБМ-6)
-    year: 2023
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2020
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2019
+  - course: Аспирантура 38.06.01 «Экономика»
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
+    year: 2018
+  - course: Специалитет 08.05.02. «Экономика и управление на предприятии
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
+    year: 2013
+  - course: Специалитет 24.05.06. «Системы управления летательными аппаратами» 
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИУ-1)
+    year: 2013
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Ассистенты
 ---
 
 Координатор научно-образовательных проектов, куратор направления “Нейросетевые технологии”.

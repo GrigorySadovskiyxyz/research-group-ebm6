@@ -96,14 +96,14 @@ address = {street = "2-я Бауманская ул., 5, стр. 1", city = "М�
 coordinates = {latitude = "55.764575", longitude = "37.682505"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Пятый этаж корпуса МТ/ИБМ, 514 кабинет"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 office_hours = ["С 9:00 до 17:00; с понедельника по пятницу"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.

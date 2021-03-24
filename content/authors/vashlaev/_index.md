@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Ассистенты
 ---
 
 Вашлаев А.Д. занимает позицию асистента кафедры. Его основные научно-исследовательские интересы лежат в области развития цифровой экономики, организации и управление производством, кадрового потенциала. Принимает активное участие в разработке учебно-методических материалов для учебного процесса.

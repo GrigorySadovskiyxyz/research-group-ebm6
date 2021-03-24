@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Аспиранты
 ---
 
 Основные научно-исследовательские интересы лежат в области развития cтратегическего менеджмента, оптимизация бизнес-процессов, продуктовой аналитике, методов разработки IT-решений. Принимает активное участие в разработке учебно-методических материалов и оптимизации рабочего и учебного процесса.
