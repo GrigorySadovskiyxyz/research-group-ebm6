@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Ассистенты
 ---
 
 Заместитель заведующего кафедрой по общим вопросам, ассистент, куратор студенческих практик и стажировок, нормоконтролер ВКР

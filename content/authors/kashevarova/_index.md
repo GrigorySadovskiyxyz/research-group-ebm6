@@ -14,27 +14,28 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Научные интересы лежат в области инструментов цифровой экономики, управления НИОКР, управления интеллектуальной собственностью, открытых инноваций
 
 interests:
 - Патентный анализ
 - Управление НИОКР
 - Управление интеллектуальной собственностью
+- Открытые инновации
 
 education:
   courses:
   - course: 05.02.22 Организация производства (машиностроение)
     institution: МГТУ им. Н.Э. Баумана (ИБМ-6)
     year: 2023
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ученая степень кандидата экономических наук по специальности 
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
     year: 2020
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Аспирантура,
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
+    year: 2016
+  - course: Специалитет, 22.07.01. «Менеджмент высоких технологий»
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
