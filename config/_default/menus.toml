@@ -42,3 +42,8 @@
   name = "Курсы"
   url = "courses/"
   weight = 80
+
+[[main]]
+  name = "Справочный центр"
+  url = "center/"
+  weight = 80

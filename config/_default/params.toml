@@ -37,7 +37,7 @@ font_size = "XL"
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Project"
+site_type = "EducationalOrganization"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -225,7 +225,7 @@ plugins_js  = []
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true
 
 ############################
 ## Maps
