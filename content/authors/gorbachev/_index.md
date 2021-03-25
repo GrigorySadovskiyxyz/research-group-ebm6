@@ -42,13 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@gorbachev.uao@gmail.com'
+  link: 'mailto:test@gorbachev@bmstu.ru'
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Vladimir-Shiboldenkov
+  link: https://www.researchgate.net/profile/Anton-Gorbachev-2
 - icon: book
   icon_pack: fas
-  link: https://www.elibrary.ru/author_items.asp?authorid=834799
+  link: https://www.elibrary.ru/author_items.asp?authorid=931449
 - icon: vk
   icon_pack: fab
   link: https://vk.com/antongorbachev
