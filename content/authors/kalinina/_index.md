@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Калинина Ольга Владимировна
+title: Калинина Ольга Андреевна
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ассистент, кандидат экономических наук
+role: Инженер кафедры
 
 # Organizations/Affiliations
 organizations:
@@ -14,29 +14,21 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter. ![](https://bmstu.ru/plain/works/science/degree-candidates/dissertants/?q=dissertation&id=531)
+bio: Инженер кафедры ИБМ-6
 
 interests:
-- Инженерия знаний и интеллектуальный анализ данных
 - Инструменты цифровой экономики
-- Системно-синергетический анализ
+- Цифровизация производства
+- Цифровые двойники 
 
 education:
   courses:
-  - course: к.э.н. 08.00.13 Математические и инструментальные методы экономики
-    institution: МГТУ им. Н.Э. Баумана (ИБМ-6)
+  - course: Магистратура, 27.04.06 Организация и управление наукоемкими производствами
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
+    year: 2021
+  - course: Бакалавриат, 27.03.05 «Инноватика» 
+    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
     year: 2019
-  - course: Аспирантура 38.06.01 «Экономика»
-    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
-    year: 2018
-  - course: Специалитет 08.05.02. «Экономика и управление на предприятии
-    institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
-    year: 2013
-  - course: Специалитет 24.05.06. «Системы управления летательными аппаратами» 
-    institution: МГТУ им. Н.Э. Баумана (кафедра ИУ-1)
-    year: 2013
-
-
 
 
 # Social/Academic Networking
@@ -47,22 +39,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@vshiboldenkov@mail.ru'
+  link: 'mailto:test@kalininaoa@bmstu.ru'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Vladimir-Shiboldenkov
 - icon: book
   icon_pack: fas
-  link: https://www.elibrary.ru/author_items.asp?authorid=834799
+  link: https://www.elibrary.ru/author_items.asp?authorid=1058897
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3482-7738
+
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/CV-Kalinina.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "vshiboldenkov@mail.ru"
+email: "kalininaoa@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,6 +70,4 @@ user_groups:
 - Ассистенты
 ---
 
-Координатор научно-образовательных проектов, куратор направления “Нейросетевые технологии”.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Инженер кафедры ИБМ-6
