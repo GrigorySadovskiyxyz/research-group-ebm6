@@ -42,7 +42,7 @@ social:
   link: 'mailto:test@kalininaoa@bmstu.ru'
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Vladimir-Shiboldenkov
+  link: ""
 - icon: book
   icon_pack: fas
   link: https://www.elibrary.ru/author_items.asp?authorid=1058897
@@ -70,4 +70,4 @@ user_groups:
 - Инженеры
 ---
 
-Инженер кафедры ИБМ-6
+Инженер кафедры ИБМ-6.

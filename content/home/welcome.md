@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "ОНХИ ИБМ-6"
+title: "ИБМ-6 МГТУ ИМ. Н.Э. БАУМАНА"
 subtitle: ""
 hero_media: welcome.jpg
 design:

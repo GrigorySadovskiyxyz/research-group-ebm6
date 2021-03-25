@@ -16,7 +16,7 @@ organizations:
   url: "https://www.lut.fi/web/en/for-alumni"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Разработчик ОНХИ ИБМ-6.
+bio: Разработчик сайта ИБМ-6.
 
 interests:
 - Анализ данных
