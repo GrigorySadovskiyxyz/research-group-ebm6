@@ -6,7 +6,7 @@ title: Кашеварова Наталья Александровна
 superuser: false
 
 # Role/position
-role: Ассистент, кандидат экономических наук
+role: Кандидат экономических наук, доцент
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,10 @@ interests:
 
 education:
   courses:
-  - course: 05.02.22 Организация производства (машиностроение)
-    institution: МГТУ им. Н.Э. Баумана (ИБМ-6)
-    year: 2023
-  - course: Ученая степень кандидата экономических наук по специальности 
+  - course: к.э.н, 08.00.05 Экономика и управление народным хозяйством (по отраслям)
     institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
-    year: 2020
-  - course: Аспирантура,
+    year: 2019
+  - course: Аспирантура
     institution: МГТУ им. Н.Э. Баумана (кафедра ИБМ-6)
     year: 2016
   - course: Специалитет, 22.07.01. «Менеджмент высоких технологий»
@@ -45,13 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@a.d.vashlaev@gmail.com'
-- icon: vk
-  icon_pack: fab
-  link: https://vk.com/a.d.vashlaev
+  link: 'mailto:test@n.kashevarova@bmstu.ru'
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Andrey-Vashlaev
+  link: https://www.researchgate.net/profile/Nataliya_Kashevarova2
 - icon: book
   icon_pack: fas
   link: https://www.elibrary.ru/author_items.asp?authorid=966002
@@ -63,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "n.kashevarova@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -71,8 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ассистенты
+- Преподаватели
 ---
 
-Специалист по оценке и защите интеллектуальной собственности ОАО "Корпорация "Комета", куратор направления "Управление нематериальными активами"
+Доцент кафедры ИБМ6 (2019-н.в.), координатор работы с аспирантами, куратор научно-исследовательских работ студентов.
+
 

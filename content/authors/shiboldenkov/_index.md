@@ -6,7 +6,7 @@ title: Шиболденков Владимир Александрович
 superuser: false
 
 # Role/position
-role: Ассистент, кандидат экономических наук, доцент
+role: Кандидат экономических наук, доцент
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ассистенты
+- Преподаватели
 ---
 
 Координатор научно-образовательных проектов, куратор направления “Нейросетевые технологии”.
