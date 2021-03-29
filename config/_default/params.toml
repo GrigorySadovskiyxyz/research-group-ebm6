@@ -107,13 +107,15 @@ office_hours = ["С 9:00 до 17:00; с понедельника по пятни
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-# contact_links = [
-#  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+contact_links = [
+ {icon = "twitter", icon_pack = "fab", name = "Твиттер", link = "https://twitter.com/ibm6bmstu"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-#  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-# ]
+ {icon = "facebook", icon_pack = "fab", name = "Фейсбук", link = "https://www.facebook.com/ibm6bmstu"},
+ {icon = "telegram", icon_pack = "fab", name = "Телеграм канал", link = "https://t.me/ibm6bmstu"},
+ {icon = "instagram", icon_pack = "fab", name = "Инстаграм", link = "https://www.instagram.com/ibm6bmstu/"}
+]
 
 ############################
 ## Social
