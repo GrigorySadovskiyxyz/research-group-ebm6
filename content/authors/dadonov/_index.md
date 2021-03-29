@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Юсуфова Ольга Михайловна
+title: Дадонов Владимир Алексеевич
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Кандидат экономических наук, доцент
+role: Кандидат технических наук, доцент
 
 # Organizations/Affiliations
 organizations:
@@ -14,13 +14,12 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Заведующий кафедрой кафедрой «Предпринимательство и внешнеэкономическая деятельность» (ИБМ-6) МГТУ им. Н.Э. Баумана.
+bio: Заместитель заведующего кафедрой «Предпринимательство и внешнеэкономическая деятельность» (ИБМ-6) МГТУ им. Н.Э. Баумана.
 
 interests:
-- Цифровая экономика
 - Наукоемкое производство
 - Высокотехнологичные предприятия
-
+- Менеджмент качества
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -29,16 +28,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@yusufova@bmstu.ru'
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-8019-4041
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Olga_Yusufova/ 
+  link: 'mailto:test@dadonov@bmstu.ru'
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0001-8019-4041
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Olga_Yusufova/ 
 - icon: book
   icon_pack: fas
-  link: https://www.elibrary.ru/author_items.asp?authorid=797120
+  link: https://elibrary.ru/author_items.asp?authorid=534387
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -47,7 +46,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yusufova@bmstu.ru"
+email: "dadonov@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -58,5 +57,5 @@ user_groups:
 - Заместители
 ---
 
-Заместитель заведующего кафедрой по научной работе. Куратор блока общефакультетских дисциплин.
+Заместитель заведующего кафедрой по учебно-методической работе, доцент, кандидат технических наук, ученый секретарь Ученого совета факультета ИБМ, куратор направления "Менеджмент качества"
 

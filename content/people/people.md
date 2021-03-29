@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Состав команды
+title: Состав кафедры
 subtitle:
 
 content:
@@ -18,6 +18,7 @@ content:
   user_groups:
   - Заведующий
   - Заместители
+  - Профессора
   - Преподаватели
   - Ассистенты
   - Эксперты
@@ -25,7 +26,7 @@ content:
   - Аспиранты
   - Магистры
   - Бакалавры
-  - Алюмни
+  - Выпускники
 
 design:
   show_interests: false
