@@ -1,6 +1,7 @@
-<!-- ---
+---
 widget: hero
 headless: true  # This file represents a page section.
+weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -12,14 +13,15 @@ hero_media: ''
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url: 'https://wowchemy.com'
-  label: Get Started
-  icon_pack: fas
-  icon: download
+  label: Узнать
+  icon_pack: fab
+  icon: connectdevelop
+  
 cta_alt:
   url: 'https://wowchemy.com'
-  label: View Documentation
+  label: Связаться с нами
 
 # Note. An optional note to show underneath the links.
 cta_note:
-  label: ''
---- -->
+  label: 'Note'
+---
