@@ -4,8 +4,8 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
-subtitle:
+title: Готовим управленческие кадры для современной цифровой индустрии
+subtitle: Образование
 
 content:
   count: 5
