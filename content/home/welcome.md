@@ -5,13 +5,21 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
+hero_media: ''
 weight: 10  # Order that this section will appear.
 title: "ИБМ-6 МГТУ ИМ. Н.Э. БАУМАНА"
 subtitle: ""
-hero_media: welcome.jpg
+# hero_media: 'landing.jpeg'
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
+  background:
+    image: landing1.jpeg
+    image_darken: 0
+    image_parallax: false
+    image_position: center
+    image_size: cover
+    text_color_light: true
 advanced:
   css_style:
   css_class:
