@@ -8,13 +8,12 @@ headless: true  # This file represents a page section.
 hero_media: ''
 weight: 10  # Order that this section will appear.
 title: "ИБМ-6 МГТУ ИМ. Н.Э. БАУМАНА"
-subtitle: ""
-# hero_media: 'landing.jpeg'
+subtitle: "Научно-исследовательский хаб"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   background:
-    image: landing1.jpeg
+    image: landing.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
@@ -25,12 +24,5 @@ advanced:
   css_class:
 ---
 
+КАФЕДРА ПРЕДПРИНИМАТЕЛЬСТВА И ВНЕШНЕЭКОНОМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ
 
-Научно-исследовательский хаб.
-
-Готовим управленческие кадры для современной цифровой индустрии
-
-Выполняем исследования и разработки в области бизнес-информатики
-
-
-<!-- Исследовательская группа занимается разработками в области операций и науки управления, уделяя особое внимание оптимизации, математическому программированию и приложениям, связанным с планированием производственных систем и управлением цепочками поставок. -->
