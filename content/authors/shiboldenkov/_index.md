@@ -14,7 +14,7 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter. ![](https://bmstu.ru/plain/works/science/degree-candidates/dissertants/?q=dissertation&id=531)
+bio: Кандидат экономических наук, доцент, координатор научно-образовательных проектов, куратор направления “Нейросетевые технологии”.
 
 interests:
 - Инженерия знаний и интеллектуальный анализ данных
@@ -76,6 +76,5 @@ user_groups:
 - Преподаватели
 ---
 
-Координатор научно-образовательных проектов, куратор направления “Нейросетевые технологии”.
+Кандидат экономических наук, доцент, координатор научно-образовательных проектов, куратор направления “Нейросетевые технологии”.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

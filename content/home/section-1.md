@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true  # This file represents a page section.
-weight: 30
+weight: 40
 
 # ... Put Your Section Options Here (title etc.) ...
 
