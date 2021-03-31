@@ -2,8 +2,6 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: slider
 weight: 30
-
-widget: slider
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (section position etc.) ...
@@ -32,11 +30,11 @@ item:
     cta_label: Узнать подробнее
     cta_url: apply
     cta_icon_pack: fas
-    cta_icon: graduation-cap
+    cta_icon: user-graduate
   - title: Абитуриентам
     content: 'Программы обучения: бакалавриат, магистратура, аспирантура, второе высшее.'
     align: right
-    overlay_color: '#0064FF'
+    overlay_color: '#9D9D9C'
     # overlay_img: '010.jpg'
     overlay_filter: 0.5
 
@@ -47,12 +45,12 @@ item:
   - title: Студентам
     content: 'Учебные материалы. Методические указания. Руководства. Расписание занятий и консультаций.'
     align: right
-    overlay_color: '#0064FF'
+    overlay_color: '#606060'
     # overlay_img: ''
     overlay_filter: 0.5
     cta_label: Получить материалы
     cta_url: apply
     cta_icon_pack: fas
-    cta_icon: graduation-cap
+    cta_icon: file
 ---
 

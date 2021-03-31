@@ -11,13 +11,13 @@ title: "ИБМ-6 МГТУ им. Н.Э. Баумана"
 subtitle: "Научно-исследовательский хаб"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
   background:
     image: landing.jpeg
-    image_darken: 0
+    image_darken: 0.4
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: actual
     text_color_light: true
 advanced:
   css_style:
@@ -25,4 +25,9 @@ advanced:
 ---
 
 КАФЕДРА ПРЕДПРИНИМАТЕЛЬСТВА И ВНЕШНЕЭКОНОМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ
+
+Готовим лидеров цифровой экономики для современной индустрии
+
+
+
 
