@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Попович Леонид Григорьевич
+title: Зименков Рудольф Иванович
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,12 +14,11 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Профессор, доктор экономических наук, советник ректора МГТУ им. Н.Э. Баумана, куратор направления "Организационно-экономическое проектирование"
+bio: Профессор, доктор экономических наук, главный научный сотрудник Института США и Канады РАН, куратор направления "Международный бизнес"
 
 interests:
-- Организационно-экономическое проектирование
+- Международный бизнес
 - Цифровая экономика
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,7 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@popovich@bmstu.ru'
+  link: 'mailto:test@ibm6@bmstu.ru'
 - icon: elibrary
   icon_pack: custom
   link: https://www.elibrary.ru/author_items.asp?authorid=834799
@@ -51,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "popovich@bmstu.ru"
+email: "ibm6@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,7 +61,7 @@ user_groups:
 - Профессора
 ---
 
-Профессор, доктор экономических наук, советник ректора МГТУ им. Н.Э. Баумана, куратор направления "Организационно-экономическое проектирование".
+Профессор, доктор экономических наук, главный научный сотрудник Института США и Канады РАН, куратор направления "Международный бизнес.
 
 
 

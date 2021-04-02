@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Попович Леонид Григорьевич
+title: Садовский Леонид Игоревич
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Профессор, доктор экономических наук
+role: Cтарший преподаватель, руководитель Приемной комиссии кафедры
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,11 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Профессор, доктор экономических наук, советник ректора МГТУ им. Н.Э. Баумана, куратор направления "Организационно-экономическое проектирование"
+bio: Cтарший преподаватель, руководитель Приемной комиссии кафедры, куратор направления "Международное предпринимательство"
 
 interests:
-- Организационно-экономическое проектирование
+- Международный бизнес
 - Цифровая экономика
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,10 +28,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@popovich@bmstu.ru'
+  link: 'mailto:test@sadovsky@bmstu.ru'
 - icon: elibrary
   icon_pack: custom
-  link: https://www.elibrary.ru/author_items.asp?authorid=834799
+  link: https://library.bmstu.ru/Publications/Home/AuthorPublications/2e8728b8-76e5-48ba-8b39-bcf83192df559
 
 # - icon: orcid
 #   icon_pack: ai
@@ -51,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "popovich@bmstu.ru"
+email: "sadovsky@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,10 +58,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Профессора
+- Преподаватели
 ---
 
-Профессор, доктор экономических наук, советник ректора МГТУ им. Н.Э. Баумана, куратор направления "Организационно-экономическое проектирование".
+Cтарший преподаватель, руководитель Приемной комиссии кафедры, куратор направления "Международное предпринимательство"
 
 
 

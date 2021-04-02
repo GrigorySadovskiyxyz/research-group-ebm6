@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Попович Леонид Григорьевич
+title: Чернышев Сергей Леонидович
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Профессор, доктор экономических наук
+role: Профессор, доктор технических наук
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,11 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Профессор, доктор экономических наук, советник ректора МГТУ им. Н.Э. Баумана, куратор направления "Организационно-экономическое проектирование"
+bio: Профессор, доктор технических наук, ученый секретарь Ученого совета МГТУ им. Н.Э. Баумана, куратор направления "Экономико-математическое моделирование"
 
 interests:
-- Организационно-экономическое проектирование
+- Математическое моделирование
 - Цифровая экономика
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -29,7 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@popovich@bmstu.ru'
+  link: 'mailto:test@chernshv@bmstu.ru'
 - icon: elibrary
   icon_pack: custom
   link: https://www.elibrary.ru/author_items.asp?authorid=834799
@@ -51,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "popovich@bmstu.ru"
+email: "chernshv@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -62,7 +61,7 @@ user_groups:
 - Профессора
 ---
 
-Профессор, доктор экономических наук, советник ректора МГТУ им. Н.Э. Баумана, куратор направления "Организационно-экономическое проектирование".
+Профессор, доктор технических наук, ученый секретарь Ученого совета МГТУ им. Н.Э. Баумана, куратор направления "Экономико-математическое моделирование"
 
 
 

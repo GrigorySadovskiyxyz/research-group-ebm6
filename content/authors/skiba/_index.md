@@ -6,7 +6,7 @@ title: Скиба Владимир Юрьевич
 superuser: false
 
 # Role/position
-role: Доктор технических наук, профессор
+role: Профессор, доктор технических наук
 
 # Organizations/Affiliations
 organizations:
