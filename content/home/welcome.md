@@ -3,12 +3,13 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: hero  # See https://wowchemy.com/docs/page-builder/
+widget: about  # See https://wowchemy.com/docs/page-builder/
+author: 'bmstu'
 headless: true  # This file represents a page section.
-hero_media: ''
+# hero_media: ''
 weight: 10  # Order that this section will appear.
-title: "ИБМ-6 МГТУ им. Н.Э. Баумана"
-subtitle: "Научно-исследовательский хаб"
+title: "Предпринимательства и внешнеэкономической деятельности"
+subtitle: "Готовим лидеров цифровой экономики"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
@@ -24,9 +25,6 @@ advanced:
   css_class:
 ---
 
-КАФЕДРА ПРЕДПРИНИМАТЕЛЬСТВА И ВНЕШНЕЭКОНОМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ
-
-Готовим лидеров цифровой экономики для современной индустрии
 
 
 
