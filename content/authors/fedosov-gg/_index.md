@@ -1,26 +1,24 @@
 ---
 # Display name
-title: Михненко Павел Александрович
+title: Федосов Геннадий Григорьевич
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Профессор, доктор технических наук
+role: Старший преподаватель
 
 # Organizations/Affiliations
 organizations:
 - name: МГТУ им. Н.Э. Баумана
   url: "https://bmstu.ru/"
 
-
 # Short bio (displayed in user profile at end of posts)
-bio: Профессор, доктор технических наук
+# bio: Старший преподаватель, генеральный директор компании "Полисет Инвест", куратор направления "Международный трансфер технологий"
 
 # interests:
-# - Инженерия знаний и интеллектуальный анализ данных
-# - Инструменты цифровой экономики
-# - Системно-синергетический анализ
+# - Международный трансфер технологий
+# - Инновационный менеджмент
 
 # education:
 #   courses:
@@ -42,16 +40,16 @@ bio: Профессор, доктор технических наук
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-social:
+# social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ibm6@bmstu.ru'
+  link: 'mailto:fedosovgg@gmail.com'
 # - icon: researchgate
 #   icon_pack: ai
-#   link: 
+#   link: https://www.researchgate.net/profile/Sergey-Letun-2
 # - icon: book
 #   icon_pack: fas
-#   link: https://www.elibrary.ru/author_items.asp?authorid=553072
+#   link: https://www.elibrary.ru/author_items.asp?authorid=797447
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0001-6436-8662
@@ -66,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ibm6@bmstu.ru"
+email: "fedosovgg@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -74,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Эксперты
+- Преподаватели
 ---
 
-
+Старший преподаватель.

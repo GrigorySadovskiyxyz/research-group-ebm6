@@ -6,7 +6,7 @@ title: Вашлаев Андрей Дмитриевич
 superuser: false
 
 # Role/position
-role: Ассистент, руководитель работ по мониторингу успеваемости студентов
+role: Ассистент
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ассистент, руководитель работ по мониторингу успеваемости студентов.
 
 interests:
 - Цифровая экономика

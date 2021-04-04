@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Попович Александр Леонидович
+title: Рассомагин Александр Сергеевич
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Доцент, кандидат технических наук
+role: Ассистент
 
 # Organizations/Affiliations
 organizations:
 - name: МГТУ им. Н.Э. Баумана
   url: "https://bmstu.ru/"
-- name: МГТУ им. Н.Э. Баумана
-  url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Доцент, кандидат экономических наук.
+bio: Ассистент.
 
-interests:
-- Организационно-экономическое проектирование
-- Цифровая экономика
+# interests:
+# - Цифровая экономика
+# - Наукоемкое производство
+# - Высокотехнологичные предприятия
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -30,20 +29,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:a.47@bk.ru'
-- icon: elibrary
-  icon_pack: custom
-  link: https://www.elibrary.ru/author_items.asp?authorid=834799
-
+  link: 'mailto:ibm6@bmstu.ru'
 # - icon: orcid
 #   icon_pack: ai
-#   link: https://orcid.org/0000-0001-6436-8662
-# - icon: scopus
+#   link: https://orcid.org/0000-0001-8019-4041
+# - icon: researchgate
 #   icon_pack: ai
-#   link: https://www.scopus.com/authid/detail.uri?authorId=57196479158
-# - icon: scopus
-#   icon_pack: ai
-#   link: https://www.scopus.com/authid/detail.uri?authorId=57196479158
+#   link: https://www.researchgate.net/profile/Olga_Yusufova/ 
+- icon: book
+  icon_pack: fas
+  link: https://www.elibrary.ru/author_items.asp?authorid=797120
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -52,10 +47,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "a.47@bk.ru"
+email: "ibm6@bmstu.ru"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,7 +58,5 @@ user_groups:
 - Ассистенты
 ---
 
-Доцент, кандидат технических наук, руководитель проектов ГК "Спецтяжавтотранс".
-
-
+Ассистент кафедры.
 

@@ -1,21 +1,20 @@
 ---
 # Display name
-title: Михненко Павел Александрович
+title: Самолдин Александр Николаевич
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Профессор, доктор технических наук
+role: Кандидат технических наук, доцент
 
 # Organizations/Affiliations
 organizations:
 - name: МГТУ им. Н.Э. Баумана
   url: "https://bmstu.ru/"
 
-
 # Short bio (displayed in user profile at end of posts)
-bio: Профессор, доктор технических наук
+bio: Кандидат технических наук, доцент.
 
 # interests:
 # - Инженерия знаний и интеллектуальный анализ данных
@@ -42,16 +41,16 @@ bio: Профессор, доктор технических наук
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ibm6@bmstu.ru'
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:test@vshiboldenkov@mail.ru'
 # - icon: researchgate
 #   icon_pack: ai
-#   link: 
+#   link: https://www.researchgate.net/profile/Vladimir-Shiboldenkov
 # - icon: book
 #   icon_pack: fas
-#   link: https://www.elibrary.ru/author_items.asp?authorid=553072
+#   link: https://www.elibrary.ru/author_items.asp?authorid=834799
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0001-6436-8662
@@ -66,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ibm6@bmstu.ru"
+email: "vshiboldenkov@mail.ru"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -74,7 +73,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Эксперты
+- Ассистенты
 ---
 
+Кандидат технических наук, доцент.
 
