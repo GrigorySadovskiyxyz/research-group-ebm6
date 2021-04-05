@@ -18,9 +18,10 @@ content:
   user_groups:
   - Заведующий
   - Заместители
-  - Профессора
-  - Преподаватели
+  - Штатные профессора
+  - Штатные преподаватели
   - Ассистенты
+  - Приглашенные преподаватели
   - Эксперты
   - Инженеры
   - Аспиранты
@@ -31,5 +32,5 @@ content:
 design:
   show_interests: false
   show_role: true
-  show_social: true
+  show_social: false
 ---

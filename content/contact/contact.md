@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Контакты
+title: Контактная информация
 subtitle:
 
 content:
@@ -23,10 +23,14 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
 design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+> #### Каф. ИБМ-6, +7 (499) 267-17-83, корп. МТ/ИБМ, 5 эт. e-mail: ibm6@bmstu.ru
+>
+> - Контакты сотрудников можно найти на нашей странице "О нас". Адреса электронной почты представлены в виде _@bmstu.ru_
+> 
+> - По иным вопросам, пожалуйста воспользуйтесь формой для обратной связи ниже.

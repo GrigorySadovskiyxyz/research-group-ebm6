@@ -111,10 +111,11 @@ contact_links = [
  {icon = "twitter", icon_pack = "fab", name = "Твиттер", link = "https://twitter.com/ibm6bmstu"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+ {icon = "youtube", icon_pack = "fab", name = "Ютьюб", link = ""},
  {icon = "facebook", icon_pack = "fab", name = "Фейсбук", link = "https://www.facebook.com/ibm6bmstu"},
- {icon = "telegram", icon_pack = "fab", name = "Телеграм канал", link = "https://t.me/ibm6bmstu"},
- {icon = "instagram", icon_pack = "fab", name = "Инстаграм", link = "https://www.instagram.com/ibm6bmstu/"}
+ {icon = "telegram", icon_pack = "fab", name = "Телеграм", link = "https://t.me/ibm6bmstu"},
+ {icon = "instagram", icon_pack = "fab", name = "Инстаграм", link = "https://www.instagram.com/ibm6bmstu/"},
+ {icon = "vk", icon_pack = "fab", name = "Вконтакте", link = "https://vk.com/ibm6bmstu"}
 ]
 
 ############################

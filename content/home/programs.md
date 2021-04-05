@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 css: assets/scss/custom.scss
 weight: 20
 
-# ... Put Your Section Options Here (title etc.) ...
+title: Основные направления
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.

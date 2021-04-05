@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Эксперты
+- Приглашенные преподаватели
 ---
 
 Голубев А.И. является специалистом Департамента по продвижению бизнес-решений компании Microsoft. Куратор направления "Управление взиамоотношениями с клиентами / CRM".

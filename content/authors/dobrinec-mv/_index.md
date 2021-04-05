@@ -42,7 +42,7 @@ bio:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@mvd@bmstu.ru'
+  link: 'mailto:mvd@bmstu.ru'
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0003-0706-2936

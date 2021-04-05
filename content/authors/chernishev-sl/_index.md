@@ -28,7 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@chernshv@bmstu.ru'
+  link: 'mailto:chernshv@bmstu.ru'
 - icon: elibrary
   icon_pack: custom
   link: https://www.elibrary.ru/author_items.asp?authorid=834799
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Профессора
+- Штатные профессора
 ---
 
 Профессор, доктор технических наук, ученый секретарь Ученого совета МГТУ им. Н.Э. Баумана, куратор направления "Экономико-математическое моделирование"

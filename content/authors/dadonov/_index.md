@@ -28,7 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@dadonov@bmstu.ru'
+  link: 'mailto:dadonov@bmstu.ru'
 # - icon: orcid
 #   icon_pack: ai
 #   link: https://orcid.org/0000-0001-8019-4041

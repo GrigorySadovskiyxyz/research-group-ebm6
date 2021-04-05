@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -28,4 +28,4 @@ design:
     padding: ["100px", "0", "100px", "0"]
 advanced:
   css_class: fullscreen
----
+--- -->
