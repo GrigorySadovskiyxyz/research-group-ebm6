@@ -5,6 +5,7 @@ css: assets/scss/custom.scss
 weight: 20
 
 title: Основные направления
+subtitle: 
 
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
@@ -21,5 +22,5 @@ feature:
   - icon: project-diagram
     icon_pack: fas
     name: Проекты и разработки
-    description: Нейрон. Горизонт. Опцион. Выполняем исследования и разработки в области бизнес-информатики.
+    description: Выполняем исследования и разработки в области бизнес-информатики.
 ---

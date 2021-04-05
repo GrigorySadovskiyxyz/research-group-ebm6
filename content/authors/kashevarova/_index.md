@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@n.kashevarova@bmstu.ru'
+  link: 'mailto:n.kashevarova@bmstu.ru'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Nataliya_Kashevarova2
@@ -68,6 +68,6 @@ user_groups:
 - Штатные преподаватели
 ---
 
-Доцент кафедры ИБМ6 (2019-н.в.), координатор работы с аспирантами, куратор научно-исследовательских работ студентов.
+Доцент кафедры ИБМ6, координатор работы с аспирантами, куратор научно-исследовательских работ студентов.
 
 

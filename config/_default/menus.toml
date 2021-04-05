@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "События"
+  name = "Мероприятия"
   url = "event"
   weight = 40
 
@@ -29,21 +29,21 @@
   weight = 50
 
 [[main]]
-  name = "Контакты"
-  url = "contact"
+  name = "Проекты"
+  url = "project/"
   weight = 60
-
-[[main]]
-  name = "Материалы"
-  url = "matherials/"
-  weight = 70
 
 [[main]]
   name = "Курсы"
   url = "courses/"
-  weight = 80
+  weight = 70
 
 [[main]]
   name = "Справочный центр"
   url = "center/"
-  weight = 80
+  weight = 90
+
+[[main]]
+  name = "Контакты"
+  url = "contact"
+  weight = 100
