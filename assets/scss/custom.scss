@@ -1,3 +1,16 @@
 .featurette-icon:hover {
     transform: scale(1.2);
   }
+
+// .nav-item:hover {
+//   background-color: blue
+//   }
+  
+
+.nav-item:hover {
+  color: $sta-menu-text-active;
+  font-weight: 700;
+  // background-color: transparent !important; /* Override Bootstrap. */
+  opacity: 0.6;
+  transition: 0.3s;
+}
