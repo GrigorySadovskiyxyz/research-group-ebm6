@@ -26,8 +26,8 @@ content:
       tag: Matlab
     - name: Excel
       tag: Excel
-    - name: НИРы
-      tag: НИР
+    - name: НИР и ОКР
+      tag: НИР и ОКР
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: ''
