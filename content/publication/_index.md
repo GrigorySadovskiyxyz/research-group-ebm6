@@ -1,6 +1,6 @@
 ---
 title: База публикаций кафедры
-view: 4
+view: 1
 
 header:
   caption: ""
