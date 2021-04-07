@@ -27,7 +27,8 @@ content:
     - name: Excel
       tag: Excel
     - name: НИР и ОКР
-      tag: НИР и ОКР
+      tag: R&D
+      
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: ''

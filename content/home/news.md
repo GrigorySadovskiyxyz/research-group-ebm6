@@ -2,10 +2,10 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 30
+weight: 70
 
-title: Готовим управленческие кадры для современной цифровой индустрии
-subtitle: Образование
+title: Новости 
+subtitle: Всегда на связи
 
 content:
   count: 5
@@ -20,5 +20,7 @@ content:
   page_type: post
 design:
   view: 1
-  columns: "1"
+  columns: "2"
 ---
+
+Присоединяйтесь к нашей [группе VK](https://vk.com/ibm6bmstu). Подписывайтесь на наши каналы.
