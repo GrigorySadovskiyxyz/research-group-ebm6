@@ -3,7 +3,7 @@
 title: Как подписать pdf
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle:
+linktitle: Как подписать pdf
 
 # Page summary for search engines.
 summary: Ставим подпись и дату в PDF-документах с использованием Adobe Acrobat Reader
@@ -17,3 +17,7 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
+
+{{< figure src="/media/pdf/main.png" id="pdf" >}}
+
+
