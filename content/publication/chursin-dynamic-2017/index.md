@@ -6,9 +6,9 @@ draft: false
 publishDate: '2021-04-07T15:55:56.343506Z'
 authors:
 - A. Chursin
-- Pavel Drogovoz
-- T. Sadovskaya
-- Vladimir Shiboldenkov
+- drogovoz-pa
+- sadovskaya-tg
+- shiboldenkov-va
 publication_types:
 - '2'
 abstract: The proposed article is devoted to the important issue of monetary regulation

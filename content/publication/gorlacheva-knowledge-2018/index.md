@@ -8,7 +8,7 @@ authors:
 - E. N. Gorlacheva
 - A. G. Gudkov
 - I. N. Omelchenko
-- P. A. Drogovoz
+- drogovoz-pa
 - D. V. Koznov
 publication_types:
 - '1'

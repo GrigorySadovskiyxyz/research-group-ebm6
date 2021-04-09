@@ -7,7 +7,7 @@ publishDate: '2021-04-07T15:56:00.013035Z'
 authors:
 - Andrey Evgenievich Tyulin
 - Alexander Alexandrovich Chursin
-- Pavel Anatolyevich Drogovoz
+- drogovoz-pa
 - Alexander Viktorovich Yudin
 publication_types:
 - '2'

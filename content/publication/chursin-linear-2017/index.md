@@ -5,9 +5,9 @@ draft: false
 publishDate: '2021-04-07T15:55:56.584020Z'
 authors:
 - A. Chursin
-- Pavel Drogovoz
-- T. Sadovskaya
-- Vladimir Shiboldenkov
+- drogovoz-pa
+- sadovskaya-tg
+- shiboldenkov-va
 publication_types:
 - '2'
 abstract: This work deals with the important problem of risk management of high-tech

@@ -6,7 +6,7 @@ draft: false
 publishDate: '2021-04-07T15:56:00.476698Z'
 authors:
 - Judin Aleksandr Viktorovich
-- Drogovoz Pavel Anatolevich
+- drogovoz-pa
 - Grosheva Polina Jurevna
 - Solovev Alexey Mihajlovich
 publication_types:

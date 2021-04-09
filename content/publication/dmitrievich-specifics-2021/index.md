@@ -5,8 +5,8 @@ date: '2021-02-01'
 draft: false
 publishDate: '2021-04-07T15:56:00.242650Z'
 authors:
-- Vashlaev Andrey Dmitrievich
-- Kalinina Olga Andreevna
+- vashlaev-ad
+- kalinina-oa
 publication_types:
 - '2'
 abstract: ''

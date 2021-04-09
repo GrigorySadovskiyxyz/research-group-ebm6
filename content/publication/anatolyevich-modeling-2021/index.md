@@ -5,8 +5,8 @@ date: '2021-02-01'
 draft: false
 publishDate: '2021-04-07T15:55:58.959889Z'
 authors:
-- Drogovoz Pavel Anatolyevich
-- Latyshev Viktor Ivanovich
+- drogovoz-pa
+- latishev-vi
 publication_types:
 - '2'
 abstract: ''

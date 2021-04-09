@@ -5,10 +5,10 @@ date: '2019-11-01'
 draft: false
 publishDate: '2021-04-07T15:55:57.298911Z'
 authors:
-- P. Drogovoz
-- O. Yusufova
-- N. Kashevarova
-- V. Shiboldenkov
+- drogovoz-pa
+- yusufova-om
+- kashevarova-om
+- shiboldenkov-va
 publication_types:
 - '2'
 abstract: ''

@@ -6,10 +6,10 @@ draft: false
 publishDate: '2021-04-07T15:55:57.063619Z'
 authors:
 - Irina Omelchenko
-- Pavel Drogovoz
+- drogovoz-pa
 - Evgeniya Gorlacheva
-- Vladimir Shiboldenkov
-- Olga Yusufova
+- shiboldenkov-va
+- yusufova-om
 publication_types:
 - '2'
 abstract: The paper envisages the analysis of the new generation manufacturing-distributive

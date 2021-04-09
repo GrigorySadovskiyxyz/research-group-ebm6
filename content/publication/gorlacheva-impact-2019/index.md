@@ -6,9 +6,9 @@ publishDate: '2021-04-07T15:55:58.016038Z'
 authors:
 - Evgeniya Gorlacheva
 - Irina Omelchenko
-- Pavel Drogovoz
-- Olga Yusufova
-- Vladimir Shiboldenkov
+- drogovoz-pa
+- yusufova-om
+- shiboldenkov-va
 publication_types:
 - '1'
 abstract: 'The paper proposes the empiric research of socio-cultural factors’ impact

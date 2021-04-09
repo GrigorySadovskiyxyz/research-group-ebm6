@@ -7,9 +7,9 @@ publishDate: '2021-04-07T15:55:57.791672Z'
 authors:
 - E. N. Gorlacheva
 - I. N. Omelchenko
-- P. A. Drogovoz
-- O. M. Yusufova
-- V. A. Shiboldenkov
+- drogovoz-pa
+- yusufova-om
+- shiboldenkov-va
 publication_types:
 - '2'
 abstract: ''

@@ -5,9 +5,9 @@ date: '2020-01-01'
 draft: false
 publishDate: '2021-04-07T15:55:58.241574Z'
 authors:
-- Pavel Drogovoz
-- Olga Yusufova
-- Alexander Gutenev
+- drogovoz-pa
+- yusufova-om
+- gutenev-av
 publication_types:
 - '2'
 abstract: The features of the application of the system engineering methodology, technology

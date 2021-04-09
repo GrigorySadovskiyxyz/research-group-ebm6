@@ -4,8 +4,8 @@ date: '2021-02-01'
 draft: false
 publishDate: '2021-04-07T15:55:57.566468Z'
 authors:
-- Drogovoz Pavel Anatolyevich
-- Kashevarova Nataliya Alexandrovna
+- drogovoz-pa
+- kashevarova-na
 - Kapran Nikolay Petrovich
 publication_types:
 - '2'

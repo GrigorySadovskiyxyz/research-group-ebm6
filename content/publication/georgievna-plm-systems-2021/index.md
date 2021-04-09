@@ -4,7 +4,7 @@ date: '2021-02-01'
 draft: false
 publishDate: '2021-04-07T15:55:59.785442Z'
 authors:
-- Popkovich Tatyana Georgievna
+- popkovich-tg
 publication_types:
 - '2'
 abstract: ''

@@ -4,9 +4,9 @@ date: '2021-02-01'
 draft: false
 publishDate: '2021-04-07T15:55:58.497521Z'
 authors:
-- Drogovoz Pavel Anatolyevich
-- Kashevarova Nataliya Aleksandrovna
-- Shiboldenkov Vladimir Aleksandrovich
+- drogovoz-pa
+- kashevarova-na
+- shiboldenkov-da
 - Korenkova Darya Aleksandrovna
 publication_types:
 - '2'
