@@ -7,7 +7,7 @@ authors:
 - Evgeniya Gorlacheva
 - Irina Omelchenko
 - drogovoz-pa
-- yusufova-om
+- usufova-om
 - shiboldenkov-va
 publication_types:
 - '1'

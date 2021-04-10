@@ -9,7 +9,7 @@ authors:
 - drogovoz-pa
 - Evgeniya Gorlacheva
 - shiboldenkov-va
-- yusufova-om
+- usufova-om
 publication_types:
 - '2'
 abstract: The paper envisages the analysis of the new generation manufacturing-distributive

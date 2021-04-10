@@ -6,7 +6,7 @@ draft: false
 publishDate: '2021-04-07T15:55:59.211014Z'
 authors:
 - drogovoz-pa
-- yusufova-om
+- usufova-om
 - shiboldenkov-va
 - Alexander Rustamovich Nevredinov
 publication_types:

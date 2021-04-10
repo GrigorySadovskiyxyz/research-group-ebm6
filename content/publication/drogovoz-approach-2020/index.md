@@ -6,7 +6,7 @@ draft: false
 publishDate: '2021-04-07T15:55:58.241574Z'
 authors:
 - drogovoz-pa
-- yusufova-om
+- usufova-om
 - gutenev-av
 publication_types:
 - '2'

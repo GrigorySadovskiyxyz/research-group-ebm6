@@ -3,7 +3,7 @@
 title: Юсуфова Ольга Михайловна
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Кандидат экономических наук, доцент
@@ -14,7 +14,7 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Заведующий кафедрой кафедрой «Предпринимательство и внешнеэкономическая деятельность» (ИБМ-6) МГТУ им. Н.Э. Баумана.
+bio: Заместитель заведующего кафедрой по научной работе. Куратор блока общефакультетских дисциплин.
 
 interests:
 - Цифровая экономика

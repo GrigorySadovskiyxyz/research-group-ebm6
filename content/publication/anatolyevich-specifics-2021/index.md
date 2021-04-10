@@ -6,7 +6,7 @@ publishDate: '2021-04-07T15:55:58.497521Z'
 authors:
 - drogovoz-pa
 - kashevarova-na
-- shiboldenkov-da
+- shiboldenkov-va
 - Korenkova Darya Aleksandrovna
 publication_types:
 - '2'

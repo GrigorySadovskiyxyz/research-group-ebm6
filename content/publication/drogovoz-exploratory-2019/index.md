@@ -6,8 +6,8 @@ draft: false
 publishDate: '2021-04-07T15:55:57.298911Z'
 authors:
 - drogovoz-pa
-- yusufova-om
-- kashevarova-om
+- usufova-om
+- kashevarova-na
 - shiboldenkov-va
 publication_types:
 - '2'
