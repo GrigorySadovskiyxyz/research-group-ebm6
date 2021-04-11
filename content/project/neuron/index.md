@@ -9,7 +9,8 @@ date: "2013-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  link: media/neuron.png
+  caption: 
   focal_point: Smart
 
 links:
@@ -29,6 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
 
 Универсальный инструмент на основе нейронной сети, реализованный в Mathworks MATLAB. Разработка ведется с 2013 года. Предназначен для решения аналитических задач, связанных с поиском закономерностей и аномалий в больших данных. Примеры решаемых задач:
 

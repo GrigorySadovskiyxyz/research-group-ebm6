@@ -14,7 +14,7 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Инженер кафедры ИБМ-6
+bio: Инженер кафедры ИБМ-6.
 
 interests:
 - Инструменты цифровой экономики
