@@ -1,0 +1,64 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" width="295" height="158"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#7b1e19">
+      <g id="svg_1">
+        <path d="M 2.4 0 L 0 -.9 L 0 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1" id="svg_2"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#3a3884">
+      <g id="svg_3">
+        <path d="M 2.4 0 L 0 -.9 L 0 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1" id="svg_4"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#7b7d12">
+      <g id="svg_5">
+        <path d="M 2.4 0 L 0 -.9 L 0 .9 Z" fill="currentColor" stroke="currentColor" stroke-width="1" id="svg_6"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.2 
+    <dc:date>2019-08-22 15:57:10 +0000</dc:date>
+  </metadata>
+  <g id="Patways" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1" fill="none" style="" class="currentLayer">
+    <title>Patways</title>
+    <g id="Patways: Layer 1" class="" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+      <title transform="translate(0,-0.6329114437103271) translate(-0.6329114437103271,0) translate(-647.9999389648438,-537.75) ">Layer 1</title>
+      <g id="Line_35" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <path d="M104.8971495914459,73.99602855628973 C145.39924959144594,57.42798855628962 165.40424959144593,28.83202855628963 246.91894959144588,27.451288556289683 " marker-end="url(#FilledArrow_Marker)" stroke="#0064ff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="8" id="svg_7" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Line_34" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <path d="M159.6475495914459,87.39058855628969 C173.77274959144597,106.87138855628962 180.50324959144598,126.64388855628965 246.91594959144595,127.96528855628969 " marker-end="url(#FilledArrow_Marker_2)" stroke="#0064ff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="8" id="svg_8" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Graphic_33" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <rect x="277.8133850097656" y="-0.6329114437103271" width="16.30384635925293" height="157.5" fill="#ffffff" id="svg_9" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+      </g>
+      <g id="Line_32" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <line x1="58.205650329589844" y1="78.1170883178711" x2="246.91336059570312" y2="78.1170883178711" marker-end="url(#FilledArrow_Marker_3)" stroke="#0064ff" stroke-linecap="butt" stroke-linejoin="round" stroke-width="8" id="svg_10"/>
+      </g>
+      <g id="Graphic_31" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <ellipse cx="27.786338806152344" cy="78.1170883178711" rx="28.419275283813477" ry="27.98868179321289" fill="#ffffff" id="svg_11" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+        <ellipse cx="27.786338806152344" cy="78.1170883178711" rx="28.419275283813477" ry="27.98868179321289" stroke="#0064ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" id="svg_12" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Graphic_36" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <ellipse cx="93.50362396240234" cy="78.1170883178711" rx="13.13655948638916" ry="12.937520980834961" fill="#ffffff" id="svg_13" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+        <ellipse cx="93.50362396240234" cy="78.1170883178711" rx="13.13655948638916" ry="12.937520980834961" stroke="#0064ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_14" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Graphic_37" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <ellipse cx="152.00363159179688" cy="78.1170883178711" rx="13.13655948638916" ry="12.937520980834961" fill="#ffffff" id="svg_15" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+        <ellipse cx="152.00363159179688" cy="78.1170883178711" rx="13.13655948638916" ry="12.937520980834961" stroke="#0064ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_16" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Graphic_38" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <ellipse cx="210.50363159179688" cy="78.1170883178711" rx="13.13655948638916" ry="12.937520980834961" fill="#ffffff" id="svg_17" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+        <ellipse cx="210.50363159179688" cy="78.1170883178711" rx="13.13655948638916" ry="12.937520980834961" stroke="#0064ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_18" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Graphic_39" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <ellipse cx="176.75363159179688" cy="37.891014099121094" rx="13.13655948638916" ry="12.937520980834961" fill="#ffffff" id="svg_19" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+        <ellipse cx="176.75363159179688" cy="37.891014099121094" rx="13.13655948638916" ry="12.937520980834961" stroke="#0064ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_20" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+      <g id="Graphic_40" fill="#ffffff" fill-opacity="1" stroke="#0064ff" stroke-opacity="1">
+        <ellipse cx="188.00363159179688" cy="115.8045883178711" rx="13.13655948638916" ry="12.937520980834961" fill="#ffffff" id="svg_21" fill-opacity="1" stroke="#0064ff" stroke-opacity="1"/>
+        <ellipse cx="188.00363159179688" cy="115.8045883178711" rx="13.13655948638916" ry="12.937520980834961" stroke="#0064ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" id="svg_22" fill="#ffffff" fill-opacity="1" stroke-opacity="1"/>
+      </g>
+    </g>
+  <path fill="#ffffff" stroke="#0064ff" stroke-dashoffset="" fill-rule="nonzero" marker-start="" marker-mid="" marker-end="" id="svg_23" d="M243.7857250310713,45.024145904019235 L259.3114625613541,9.488629147872228 L274.83720009163665,45.024145904019235 L243.7857250310713,45.024145904019235 z" style="color: rgb(0, 100, 255);" class="" transform="rotate(89.75312042236328 259.3114624023438,27.256391525268555) "/><path fill="#ffffff" stroke="#0064ff" stroke-dashoffset="" fill-rule="nonzero" marker-start="" marker-mid="" marker-end="" d="M244.1265372979638,95.99807026288806 L259.3743893692845,61.0985814805475 L274.6222414406051,95.99807026288806 L244.1265372979638,95.99807026288806 z" style="color: rgb(0, 100, 255);" class="" transform="rotate(89.75312042236328 259.37438964843756,78.5483169555664) " id="svg_26"/><path fill="#ffffff" stroke="#0064ff" stroke-dashoffset="" fill-rule="nonzero" marker-start="" marker-mid="" marker-end="" d="M243.2844089079424,146.42156329106797 L258.84598639339845,110.80401556375998 L274.4075638788543,146.42156329106797 L243.2844089079424,146.42156329106797 z" style="color: rgb(0, 100, 255);" class="" transform="rotate(89.75312042236328 258.84597778320307,128.61277770996094) " id="svg_27"/></g>
+</svg>

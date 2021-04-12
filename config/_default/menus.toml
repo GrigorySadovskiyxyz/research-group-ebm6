@@ -9,41 +9,48 @@
 #  weight = 10
 
 [[main]]
-  name = "Новости"
-  url = "post"
+  name = "О нас"
+  url = "people"
   weight = 20
 
 [[main]]
-  name = "О нас"
-  url = "people"
+  name = "Программы"
+  url = "/programs/"
   weight = 30
+  identifier = "edu"
+
+[[menu]]
+  name = "Бакалавриат"
+  url = "/programs/bachelor/"
+  parent = "edu" 
+
 
 [[main]]
-  name = "Мероприятия"
-  url = "event"
+  name = "Новости"
+  url = "post"
   weight = 40
-
-[[main]]
-  name = "Публикации"
-  url = "publication"
-  weight = 50
-
-[[main]]
-  name = "Проекты"
-  url = "project/"
-  weight = 60
-
-[[main]]
-  name = "Курсы"
-  url = "courses/"
-  weight = 70
 
 [[main]]
   name = "Справочный центр"
   url = "center/"
-  weight = 90
+  weight = 50
+
+[[main]]
+  name = "Мероприятия"
+  url = "event"
+  weight = 60
+
+[[main]]
+  name = "Публикации"
+  url = "publication"
+  weight = 70
+
+[[main]]
+  name = "Проекты"
+  url = "project/"
+  weight = 80
 
 [[main]]
   name = "Контакты"
   url = "contact"
-  weight = 100
+  weight = 90

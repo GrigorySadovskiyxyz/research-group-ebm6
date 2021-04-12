@@ -2,11 +2,15 @@
     transform: scale(1.2);
   }
 
+.featurette-icon {
+    font-size: 10rem;
+}
+
+
 // .nav-item:hover {
 //   background-color: blue
 //   }
   
-
 .nav-item:hover {
   color: $sta-menu-text-active;
   // background-color: transparent !important; /* Override Bootstrap. */
