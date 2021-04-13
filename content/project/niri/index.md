@@ -9,7 +9,7 @@ date: "2005-04-27T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: neuron
+  caption:
   focal_point: Smart
 
 links:

@@ -19,8 +19,8 @@ content:
   order: desc
   page_type: post
 design:
-  view: 1
+  view: 3
   columns: "2"
 ---
 
-Присоединяйтесь к нашей [группе VK](https://vk.com/ibm6bmstu). Подписывайтесь на наши каналы.
+Присоединяйтесь к нашей [Вконтакте](https://vk.com/ibm6bmstu). Подписывайтесь на наши каналы в [социальных сетях](../contact).
