@@ -13,14 +13,15 @@ subtitle:
 feature:
   - icon: graduation-cap
     icon_pack: fas
-    name: Программы обучения
+    name: '[Программы обучения](/programs/)'
     description: Информация абитуриентам. Бакалавриат. Магистратура. Аспирантура. Второе высшее.
   - icon: folder-open
     icon_pack: fas
-    name: Учебные ресурсы
+    name: '[Учебные материалы](/center/)'
     description: Учебные материалы. Методические указания. Руководства. Расписание.
   - icon: project-diagram
     icon_pack: fas
-    name: Проекты и разработки
+    name: '[Проекты и разработки](/project/)'
     description: Выполняем исследования и разработки в области бизнес-информатики.
 ---
+
