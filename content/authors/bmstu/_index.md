@@ -60,9 +60,17 @@ user_groups:
 
 # 
 
-{{< cta cta_text="Подробнее" cta_link="/programs/" cta_new_tab="false" >}}
+# 
 
+# 
 
+# 
+
+# 
+
+# 
+
+{{< cta cta_text="Подробнее о программах" cta_link="/programs/" cta_new_tab="false" cta_alt_text="Узнать больше " cta_alt_link="/" cta_alt_new_tab="false" >}}
 
 
 
