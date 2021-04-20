@@ -2,7 +2,7 @@
 title: Выполненные контракты НИР и ОКР
 summary: Завершенные работы.
 tags:
-- Excel
+- НИР
 date: "2005-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 title: Проекты
-subtitle: Перспективные разработки
+subtitle: '[Перспективные разработки >‎>](/project/)'
 weight: 40
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -26,8 +26,8 @@ content:
       tag: Matlab
     - name: Excel
       tag: Excel
-    - name: НИР и ОКР
-      tag: R&D
+    - name: НИР
+      tag: НИР
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
