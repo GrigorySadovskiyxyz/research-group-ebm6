@@ -4,7 +4,7 @@ widget: pages
 headless: true
 weight: 70
 
-title: Новости 
+title: Новости ИБМ-6
 subtitle: Всегда на связи
 
 content:
@@ -23,4 +23,4 @@ design:
   columns: "2"
 ---
 
-Присоединяйтесь к нашей [Вконтакте](https://vk.com/ibm6bmstu). Подписывайтесь на наши каналы в [социальных сетях](../contact).
+Присоединяйтесь к нашей группе {{< icon name="vk" pack="fab" >}} [ВКонтакте](https://vk.com/ibm6bmstu). Подписывайтесь на наши каналы в [социальных сетях](/contact/).
