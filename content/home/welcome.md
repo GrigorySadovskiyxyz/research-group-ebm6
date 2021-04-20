@@ -8,8 +8,8 @@ author: 'bmstu'
 headless: true  # This file represents a page section.
 # hero_media: ''
 weight: 10  # Order that this section will appear.
-title: "Предпринимательства и внешнеэкономической деятельности"
-subtitle: "Готовим лидеров цифровой экономики."
+title: "ПРЕДПРИНИМАТЕЛЬСТВА И ВНЕШНЕЭКОНОМИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ"
+subtitle: "Готовим лидеров цифровой экономики"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'

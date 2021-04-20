@@ -9,7 +9,7 @@
 #  weight = 10
 
 [[main]]
-  name = "Люди"
+  name = "Состав кафедры"
   url = "/people/"
   weight = 20
 
