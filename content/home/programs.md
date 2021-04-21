@@ -7,6 +7,7 @@ weight: 20
 title: Основные направления
 subtitle: 
 
+
 # Showcase personal skills or business features.
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -23,5 +24,6 @@ feature:
     icon_pack: fas
     name: '[Проекты и разработки](/project/)'
     description: Выполняем исследования и разработки в области бизнес-информатики.
+    
 ---
 

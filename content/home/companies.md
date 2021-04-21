@@ -3,6 +3,7 @@ widget: featurette
 headless: true  # This file represents a page section.
 weight: 100
 
+
 title: Компании
 subtitle: в которых работают выпускники
 
