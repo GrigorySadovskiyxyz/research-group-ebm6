@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 title: Проекты
-subtitle: '[Перспективные разработки >‎>](/project/)'
+subtitle: '[**Перспективные разработки >‎>**](/project/)'
 weight: 40
 
 # ... Put Your Section Options Here (title etc.) ...

@@ -41,10 +41,10 @@
 
 [[main]]
   name = "Проекты"
-  url = "project/"
+  url = "/project/"
   weight = 80
 
 [[main]]
   name = "Контакты"
-  url = "contact/"
+  url = "/contact/"
   weight = 90

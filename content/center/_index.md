@@ -1,6 +1,8 @@
 ---
 widget: accomplishments
 headless: true
+title: Справочный центр кафедры
+subtitle: Руководства и пошаговые инструкции
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -10,7 +12,8 @@ image:
   # caption: "Справочный центр"
   focal_point: "Center"
   preview_only: false
-  alt_text: Руководства и пошаговые инструкции.
+  alt_text: Руководства и пошаговые инструкции
+
 ---
 
 {{% callout warning %}}
