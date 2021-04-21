@@ -4,8 +4,8 @@ widget: pages
 headless: true
 weight: 70
 
-title: Новости ИБМ-6
-subtitle: Всегда на связи
+title: Новости и события
+subtitle: Всегда на связи [#‎ИБМ-6]()
 
 content:
   count: 5

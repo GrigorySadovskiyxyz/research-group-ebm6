@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 title: Проекты
-subtitle: '[**Перспективные разработки >‎>**](/project/)'
+subtitle: '[Перспективные разработки >‎>](/project/)'
 weight: 40
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -31,7 +31,7 @@ content:
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: ''
+  columns: '2'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  
