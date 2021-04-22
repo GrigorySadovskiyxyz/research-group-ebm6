@@ -6,7 +6,7 @@ title: Калинина Ольга Андреевна
 superuser: false
 
 # Role/position
-role: Инженер кафедры
+role: Инженер
 
 # Organizations/Affiliations
 organizations:

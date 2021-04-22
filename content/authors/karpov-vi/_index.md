@@ -6,7 +6,7 @@ title: Карпов Валерий Иванович
 superuser: false
 
 # Role/position
-role: Профессор, д.т.н.
+role: Проф., д.т.н.
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Попкович Татьяна Георгиевна
 superuser: false
 
 # Role/position
-role: Старший преподаватель, секретарь Государственной экзаменационной комиссии кафедры
+role: Ст. преподаватель
 
 # Organizations/Affiliations
 organizations:

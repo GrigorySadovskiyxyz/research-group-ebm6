@@ -6,7 +6,7 @@ title: Садовский Леонид Игоревич
 superuser: false
 
 # Role/position
-role: Cтарший преподаватель, руководитель Приемной комиссии кафедры
+role: Cт. преподаватель
 
 # Organizations/Affiliations
 organizations:

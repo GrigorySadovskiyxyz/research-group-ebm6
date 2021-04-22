@@ -6,13 +6,14 @@ title: Самолдин Александр Николаевич
 superuser: false
 
 # Role/position
-role: Кандидат технических наук, доцент
+role: Доцент, к.т.н.
 
 # Organizations/Affiliations
 organizations:
 - name: МГТУ им. Н.Э. Баумана
   url: "https://bmstu.ru/"
-
+- name: Персональный сайт
+  url: "http://samoldin.ru/"
 # Short bio (displayed in user profile at end of posts)
 bio: Кандидат технических наук, доцент.
 
@@ -77,4 +78,6 @@ user_groups:
 ---
 
 Кандидат технических наук, доцент.
+
+[Elibrary](https://elibrary.ru/author_profile.asp?authorid=428897)
 

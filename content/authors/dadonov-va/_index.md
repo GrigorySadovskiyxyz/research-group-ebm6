@@ -6,7 +6,7 @@ title: Дадонов Владимир Алексеевич
 superuser: false
 
 # Role/position
-role: Кандидат технических наук, доцент
+role: Доцент, к.т.н.
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Заместитель заведующего кафедрой «Предпринимательство и внешнеэкономическая деятельность» (ИБМ-6) МГТУ им. Н.Э. Баумана.
+bio: Заместитель заведующего кафедрой ИБМ-6 МГТУ им. Н.Э. Баумана.
 
 interests:
 - Наукоемкое производство

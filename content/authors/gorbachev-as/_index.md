@@ -6,7 +6,7 @@ title: Горбачев Антон Сергеевич
 superuser: false
 
 # Role/position
-role: Ст. преподаватель, куратор студенческих практик и стажировок, нормоконтролер ВКР
+role: Ст. преподаватель
 
 # Organizations/Affiliations
 organizations:

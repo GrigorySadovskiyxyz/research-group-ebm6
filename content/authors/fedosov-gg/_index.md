@@ -6,7 +6,7 @@ title: Федосов Геннадий Григорьевич
 superuser: false
 
 # Role/position
-role: Старший преподаватель
+role: Ст. преподаватель
 
 # Organizations/Affiliations
 organizations:

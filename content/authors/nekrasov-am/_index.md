@@ -6,7 +6,7 @@ title: Некрасов Александр Михайлович
 superuser: false
 
 # Role/position
-role: Доцент, кандидат педагогических наук
+role: Доцент, к.п.н.
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Попович Александр Леонидович
 superuser: false
 
 # Role/position
-role: Доцент, кандидат технических наук
+role: Доцент, к.т.н.
 
 # Organizations/Affiliations
 organizations:

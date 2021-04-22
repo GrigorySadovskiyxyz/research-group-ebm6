@@ -6,7 +6,7 @@ title: Дроговоз Павел Анатольевич
 superuser: true
 
 # Role/position
-role: Заведующий кафедрой, профессор, доктор экономических наук
+role: Заведующий кафедрой, проф., д.э.н.
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://bmstu.ru/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Заведующий кафедрой кафедрой «Предпринимательство и внешнеэкономическая деятельность» (ИБМ-6) МГТУ им. Н.Э. Баумана.
+bio: Заведующий кафедрой кафедрой ИБМ-6 МГТУ им. Н.Э. Баумана.
 
 interests:
 - Прикладная макроэкономика
@@ -28,7 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@drogovoz@bmstu.ru'
+  link: 'mailto:drogovoz@bmstu.ru'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2560-7944
@@ -76,9 +76,12 @@ user_groups:
 
 #### Читаемые курсы: 
 
-+ Example
-+ Example
++ Курс1
++ Курс2
 
 #### Консультационное время: 
 
-Time
+Вторник 13.30-14.30, ауд. 514
+
+#### Библиографические записи (для цитирования) Скачать PDF
+#### Elibrary.ru()

@@ -6,7 +6,7 @@ title: Ивчик Татьяна Анатольевна
 superuser: false
 
 # Role/position
-role: Профессор, доктор экономических наук
+role: Проф., д.э.н.
 
 # Organizations/Affiliations
 organizations:

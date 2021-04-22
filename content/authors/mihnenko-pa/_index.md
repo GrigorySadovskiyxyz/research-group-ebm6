@@ -6,7 +6,7 @@ title: Михненко Павел Александрович
 superuser: false
 
 # Role/position
-role: Профессор, доктор технических наук
+role: Проф., д.т.н.
 
 # Organizations/Affiliations
 organizations:
