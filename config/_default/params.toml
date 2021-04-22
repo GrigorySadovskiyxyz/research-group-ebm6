@@ -56,22 +56,22 @@ description = "Кафедра предпринимательства и внеш
 
 # Enable source code highlighting? true/false
 # Documentation: https://wowchemy.com/docs/writing-markdown-latex/#highlighting-options
-highlight = false
+highlight = true
 # highlight_languages = ["r"]  # Add support for highlighting additional languages
 # highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
+diagram = true
 
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Show related content at the bottom of pages?
 show_related = {post = true, project = true, publication = true, talk = true}
@@ -146,7 +146,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = false, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true

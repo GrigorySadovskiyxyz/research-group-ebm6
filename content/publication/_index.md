@@ -13,9 +13,9 @@ header:
 
 ## Все публикации
 
-[Скачать базу публикаций](https://onedrive.live.com/?cid=bb0f0dda11b8618c&id=BB0F0DDA11B8618C%214607&authkey=%21APAevzdtvie8fDk)
+[Скачать базу публикаций РИНЦ, ВАК, Scopus/WOS в Excel](https://onedrive.live.com/?cid=bb0f0dda11b8618c&id=BB0F0DDA11B8618C%214607&authkey=%21APAevzdtvie8fDk)
 
 ---
 
-## Scopus, WoS публикации
+## Публикации Scopus и Web of Science
 <!-- [![This is my image](/media/bmstu-press-logo.png)]({{< relref "https://bmstu.press" >}}) -->
