@@ -6,7 +6,7 @@ title: Дроговоз Павел Анатольевич
 superuser: true
 
 # Role/position
-role: Заведующий кафедрой, проф., д.э.н.
+role: Проф., д.э.н., зав. кафедрой
 
 # Organizations/Affiliations
 organizations:
