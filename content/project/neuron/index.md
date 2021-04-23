@@ -19,7 +19,7 @@ links:
 #   name: Follow
 #   link: 
 url_code: ""
-url_pdf: ""
+url_pdf: "content/project/neuron/neuron-cult.pdf"
 url_slides: ""
 url_video: ""
 

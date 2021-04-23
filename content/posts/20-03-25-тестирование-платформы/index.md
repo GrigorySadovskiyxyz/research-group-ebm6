@@ -1,9 +1,13 @@
 ---
 title: Привет Мир
 date: 2021-03-25
+
+image:
+  caption: 'Источник: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
 ---
 
-{{< figure src="/media/ibm6bmstu.gif" id="logo" >}}
+<!-- {{< figure src="/media/ibm6bmstu.gif" id="logo" >}} -->
 
 Это сайт кафедры ИБМ-6, что расшифровывается как факультет "Инженерный бизнес и менеджмент" кафедра предпринимательства и внешнеэкономической деятельности.
 

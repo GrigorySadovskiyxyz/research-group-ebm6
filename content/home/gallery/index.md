@@ -12,7 +12,7 @@ headless: true
 weight: 66
 
 title: Галерея
-subtitle: Наша дружная команда
+subtitle: фото выпускников и нашей команды
 design:
   view: 3
   columns: "1"

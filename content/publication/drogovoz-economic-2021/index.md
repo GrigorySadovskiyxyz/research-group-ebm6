@@ -5,7 +5,7 @@ title: The economic benefits of digitalization in the oil and gas industry
 subtitle: ''
 summary: ''
 authors:
-- Pavel A. Drogovoz
+- drogovoz-pa
 - Nikita I. Kharin
 tags: []
 categories: []

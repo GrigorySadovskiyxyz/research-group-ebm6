@@ -16,7 +16,7 @@ design:
   background:
     image: landing.jpeg
     image_darken: 0.4
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: actual
     text_color_light: true
