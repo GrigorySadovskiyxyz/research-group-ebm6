@@ -60,9 +60,21 @@ user_groups:
 
 Наша кафедра для тех, кто хочет получить инженерные знания в области техники и технологий, освоить экономические дисциплины, стать успешным бизнес–аналитиком, консультантом или менеджером, создать свой собственный бизнес.
 
-{{< cta cta_text="Программы обучения" cta_link="/programs/" cta_new_tab="false" >}}
+<!-- {{< cta cta_text="Программы обучения" cta_link="/programs/" cta_new_tab="false" >}}
 
-{{< cta cta_text="Справочный центр" cta_link="/center/" cta_new_tab="false" >}}
+{{< cta cta_text="Справочный центр" cta_link="/center/" cta_new_tab="false" >}} -->
+
+  <div class="pseudo-buttons">
+    <div class="programs">
+       <h2><i class="fas fa-university"></i> <u>Программы обучения</u></h2>
+    </div>
+    <div class="center">
+      <h2><i class="fas fa-info"></i> <u>Справочный центр</u></h2>
+    </div>
+     <div class="courses">
+      <h2><i class="fas fa-user-graduate"></i> <u>Учебный центр</u></h2>
+     </div>
+  </div>
 
 
 
