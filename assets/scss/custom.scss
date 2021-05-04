@@ -48,8 +48,9 @@
   border-color: #9d9d9c84;
 }
 
- .a:hover {
-  color: #ff9b00
+.pseudo-buttons span:hover {
+  bottom: 0px;
+  border-bottom: 2px solid #fff;
 }
 
 // .mt-1 {

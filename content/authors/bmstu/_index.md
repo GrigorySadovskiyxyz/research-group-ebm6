@@ -64,13 +64,13 @@ user_groups:
 
   <div class="pseudo-buttons">
     <div class="programs">
-       <h2><i class="fas fa-university"></i><a href="programs">Программы обучения</h2></a>
+       <span><a href="programs" style="text-decoration: none"><h2><i class="fas fa-university"></i> Программы обучения</h2></a></span>
     </div>
     <div class="center">
-      <h2><i class="fas fa-info"></i><a href="center">Справочный центр</h2></a>
+      <a href="center" style="text-decoration: none"><h2><i class="fas fa-info"></i> Справочный центр</h2></a>
     </div>
      <div class="courses">
-      <h2><i class="fas fa-user-graduate"></i><a href="courses">Учебный центр</h2></a>
+      <a href="courses" style="text-decoration: none"><h2><i class="fas fa-user-graduate"></i> Учебный центр</h2></a>
      </div>
   </div>
 

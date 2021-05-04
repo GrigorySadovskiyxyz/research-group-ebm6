@@ -5,8 +5,8 @@ weight: 100
 
 design:
   background:
-    gradient_start: '#0064FF'
-    gradient_end: '#ffffff'
+    # gradient_start: '#0064FF'
+    # gradient_end: '#ffffff'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: false
 
