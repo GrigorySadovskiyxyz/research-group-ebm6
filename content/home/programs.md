@@ -2,7 +2,7 @@
 widget: featurette
 headless: true  # This file represents a page section.
 css: assets/scss/custom.scss
-weight: 20
+weight: 30
 
 title: Основные направления
 subtitle: 
