@@ -14,7 +14,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   background:
-    image: landing.jpeg
+    image: center.jpeg
     image_darken: 0.4
     image_parallax: true
     image_position: center

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Кафедра ИБМ-6
+title: Информационный центр ИБМ-6
 
 # Is this the primary user of the site?
 superuser: true
@@ -64,13 +64,13 @@ user_groups:
 
   <div class="pseudo-buttons">
     <div class="programs">
-      <h2><a href="programs" style="text-decoration: none"><i class="fas fa-university"></i>Программы обучения</a></h2>
+      <h2><a href="programs" style="text-decoration: none">Программы обучения</a></h2>
     </div>
     <div class="center">
-      <a href="center" style="text-decoration: none"><h2><i class="fas fa-info"></i>Справочный центр</h2></a>
+      <a href="center" style="text-decoration: none"><h2>Справочный центр</h2></a>
     </div>
      <div class="courses">
-      <a href="courses" style="text-decoration: none"><h2><i class="fas fa-user-graduate"></i>Учебный центр</h2></a>
+      <a href="courses" style="text-decoration: none"><h2>Учебный центр</h2></a>
      </div>
   </div>
 
