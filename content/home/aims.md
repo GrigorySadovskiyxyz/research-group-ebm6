@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 css: assets/scss/custom.scss
 weight: 30
 
-title: Основные направления
+title: Области исследований
 subtitle: 
 
 # Showcase personal skills or business features.
