@@ -8,26 +8,26 @@
 #  url = "/"
 #  weight = 10
 
-[[main]]
-  name = "Состав кафедры"
-  url = "/people/"
-  weight = 20
+# [[main]]
+#   name = "Состав кафедры"
+#   url = "/people/"
+#   weight = 20
 
-[[main]]
-  name = "Программы"
-  url = "/programs/"
-  weight = 30
-  identifier = "edu"
+# [[main]]
+#   name = "Программы"
+#   url = "/programs/"
+#   weight = 30
+#   identifier = "edu"
 
-[[menu]]
-  name = "Бакалавриат"
-  url = "/programs/bachelor/"
-  parent = "edu" 
+# [[menu]]
+#   name = "Бакалавриат"
+#   url = "/programs/bachelor/"
+#   parent = "edu" 
 
-[[main]]
-  name = "Новости"
-  url = "/posts/"
-  weight = 40
+# [[main]]
+#   name = "Новости"
+#   url = "/posts/"
+#   weight = 40
 
 [[main]]
   name = "Справочный центр"
@@ -44,7 +44,7 @@
   url = "/project/"
   weight = 80
 
-[[main]]
-  name = "Контакты"
-  url = "/contact/"
-  weight = 90
+# [[main]]
+#   name = "Контакты"
+#   url = "/contact/"
+#   weight = 90
